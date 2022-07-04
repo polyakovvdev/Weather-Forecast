@@ -1,0 +1,48 @@
+.container {
+    background-image: url('../../assets/img/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    padding-top: 80px;
+}
+
+.content {
+    width: 25%;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    padding-top: 120px;
+    border-radius: 16px;
+    background-color: rgb(134, 134, 134);
+    font-family: Montserrat;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.closeButton {
+    font-size: 50px;
+    color: black;
+    margin-right: auto;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    line-height: 40px;
+}
+
+.title {
+    font-size: 42px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    text-shadow: 2px 2px rgba(50, 50, 70, 0.5);
+}
+
+.timer {
+    margin-top: 60px;
+    font-size: 72px;
+    text-shadow: 2px 2px rgba(50, 50, 70, 0.5);
+}
